@@ -1,3 +1,6 @@
+This licence is only regarding the source code in this git repository.
+PDF and images are copyrighted intellectual property.
+
 Simplified BSD License
 
 Copyright (c) 2015, Jan Christopher Vogt and x.ai
